@@ -1,137 +1,63 @@
-<p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-**[Be my sponsor and your logo will be here and prompts.chat!](https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=319423)**
+<p align="center"><h1> ChatGPT Prompts cơ bản</h1></p>
 
 ---
 
-Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
+Chào mừng bạn đến với kho lưu trữ “ChatGPT Prompts cơ bản”! Đây là tập hợp các ví dụ nhanh chóng được sử dụng với ChatGPT hoặc các công cụ AI tương đương khác.
 
-The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+Mô hình ChatGPT là mô hình ngôn ngữ lớn được OpenAI tạo ra, có khả năng tạo ra văn bản giống con người. Bằng cách cung cấp cho nó một lời nhắc, nó có thể tạo ra các phản hồi để tiếp tục cuộc trò chuyện hoặc mở rộng theo lời nhắc nhất định.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+Trong kho lưu trữ này, bạn sẽ tìm thấy nhiều lời nhắc có thể được sử dụng với ChatGPT. Chúng tôi khuyến khích bạn thêm lời nhắc của riêng mình vào danh sách và sử dụng ChatGPT để tạo lời nhắc mới.
 
-To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+Để bắt đầu, chỉ cần sao chép kho lưu trữ này và sử dụng lời nhắc trong tệp README.md làm đầu vào cho ChatGPT. Bạn cũng có thể sử dụng lời nhắc trong tệp này làm nguồn cảm hứng để tạo tệp của riêng mình.
 
-We hope you find these prompts useful and have fun using ChatGPT!
-
-**[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
-
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+Mình hy vọng bạn thấy những Prompts này hữu ích và vui vẻ khi sử dụng ChatGPT!
 
 ---
 
-### ⭐️ NEW: Awesome ChatGPT Store: A Hub for Custom GPTs
 
-Now you can access [Awesome ChatGPT Store](https://github.com/devisasari/awesome-chatgpt-store), a dynamic new addition to the ChatGPT ecosystem! With the introduction of customizable GPT models, our store provides a curated collection of specialized ChatGPT GPTs, each tailored for unique applications and use cases.
 
-Explore a wide range of GPTs, from those optimized for specific programming languages, to models fine-tuned for creative writing, technical analysis, and more. This repository is not just a store; it's a community-driven platform where developers and enthusiasts can share, discover, and leverage the full potential of ChatGPT's versatility.
+**Truy cập các ông cụ AI tại đây: (https://chat.openai.com)**
 
-Dive into the world of customized conversational AI models and enrich your projects with cutting-edge technology. Visit the Awesome ChatGPT Store now at [Awesome ChatGPT Store](https://github.com/devisasari/awesome-chatgpt-store) and start exploring the possibilities!
+> ℹ️ **LƯU Ý:** Đôi khi, một số lời nhắc có thể không hoạt động như bạn mong đợi hoặc có thể bị AI từ chối. Vui lòng thử lại, bắt đầu một chủ đề mới hoặc đăng xuất và đăng nhập lại. Nếu những giải pháp này không hiệu quả, vui lòng thử viết lại lời nhắc bằng cách sử dụng câu của riêng bạn trong khi vẫn giữ nguyên hướng dẫn.
 
----
 
-**Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
-> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
-
-### Want to Write Effective Prompts?
-
-I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
-
-📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
-
-### Want to Learn How to Make Money using ChatGPT Prompts?
-
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
-
-📖 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
-
-### Want to secure your ChatGPT apps?
-
-[Utku Şen](https://twitter.com/utkusen) authored an e-book called **"Securing GPT: A Practical Introduction to Attack and Defend ChatGPT Applications"**.
-
-📖 **[Buy the e-book](https://utkusen.gumroad.com/l/securing-gpt-attack-defend-chatgpt-applications)**
-
----
-
-## Other Prompting Resources
-
-### Want to Learn How to write image prompts for Midjourney AI?
-
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
-
-📖 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
-
----
-
-### Using ChatGPT Desktop App
-
-The _unofficial_ ChatGPT desktop application provides a convenient way to access and use the prompts in this repository. With the app, you can easily import all the prompts and use them with slash commands, such as `/linux_terminal`. This feature eliminates the need to manually copy and paste prompts each time you want to use them.
-
-> **Desktop App is an unofficial [open source project by @lencx](https://github.com/lencx/ChatGPT). It's a simple wrapper for ChatGPT web interface with powerful extras.**
-
-<img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">
-
----
-
-### Create your own prompt using AI
-
-[Merve Noyan](https://huggingface.co/merve) created an exceptional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
-
----
-
-### Using prompts.chat
-
-[prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.
-
-<video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
 ---
 
 # Prompts
 
-## ChatGPT SEO prompts
-Contributed by: [StoryChief AI](https://www.storychief.io/ai-power-mode)
-Reference: [https://storychief.io/blog/chatgpt-prompts-seo](https://storychief.io/blog/chatgpt-prompts-seo)
+## Prompts cho SEO
 
-> Using WebPilot, create an outline for an article that will be 2,000 words on the keyword “Best SEO Prompts” based on the top 10 results from Google.<br/>
-> Include every relevant heading possible. Keep the keyword density of the headings high.<br/>
-> For each section of the outline, include the word count.<br/>
-> Include FAQs section in the outline too, based on people also ask section from Google for the keyword.<br/>
-> This outline must be very detailed and comprehensive, so that I can create a 2,000 word article from it.<br/>
-> Generate a long list of LSI and NLP keywords related to my keyword. Also include any other words related to the keyword.<br/>
-> Give me a list of 3 relevant external links to include and the recommended anchor text. Make sure they’re not competing articles.<br/>
-> Split the outline into part 1 and part 2.
+> Sử dụng WebPilot, tạo dàn ý cho một bài viết dài 2.000 từ với từ khóa “Lời nhắc SEO tốt nhất” dựa trên 10 kết quả hàng đầu từ Google.
+Bao gồm mọi tiêu đề có liên quan có thể. Giữ mật độ từ khóa của các tiêu đề cao.
+Đối với mỗi phần của dàn ý, hãy bao gồm số từ.
+Bao gồm cả phần Câu hỏi thường gặp trong dàn ý, dựa trên việc mọi người cũng hỏi phần từ khóa từ Google.
+Đề cương này phải rất chi tiết và toàn diện thì tôi mới có thể viết được một bài 2.000 từ từ đó.
+Tạo danh sách dài các từ khóa LSI và NLP liên quan đến từ khóa của tôi. Cũng bao gồm bất kỳ từ nào khác liên quan đến từ khóa.
+Cung cấp cho tôi danh sách 3 liên kết bên ngoài có liên quan để đưa vào và văn bản liên kết được đề xuất. Hãy chắc chắn rằng chúng không phải là các bài viết cạnh tranh.
+Chia dàn ý thành phần 1 và phần 2.
 
-## Act as an Ethereum Developer
-Contributed by: [@ameya-2003](https://github.com/Ameya-2003)
-Reference: [The BlockChain Messenger](https://github.com/Ameya-2003/BlockChain/blob/main/Projects/The%20BlockChain%20Messenger.sol)
+## Hoạt động như một nhà phát triển Ethereum
 
-> Imagine you are an experienced Ethereum developer tasked with creating a smart contract for a blockchain messenger. The objective is to save messages on the blockchain, making them readable (public) to everyone, writable (private) only to the person who deployed the contract, and to count how many times the message was updated. Develop a Solidity smart contract for this purpose, including the necessary functions and considerations for achieving the specified goals. Please provide the code and any relevant explanations to ensure a clear understanding of the implementation.
+> Hãy tưởng tượng bạn là một nhà phát triển Ethereum có kinh nghiệm được giao nhiệm vụ tạo hợp đồng thông minh cho trình nhắn tin blockchain. Mục tiêu là lưu tin nhắn trên blockchain, làm cho chúng có thể đọc được (công khai) đối với mọi người, chỉ có thể ghi (riêng tư) đối với người đã triển khai hợp đồng và đếm số lần tin nhắn được cập nhật. Phát triển hợp đồng thông minh Solidity cho mục đích này, bao gồm các chức năng và cân nhắc cần thiết để đạt được các mục tiêu đã chỉ định. Vui lòng cung cấp mã và mọi giải thích có liên quan để đảm bảo bạn hiểu rõ cách triển khai.
 
-## Act as a Linux Terminal
-Contributed by: [@f](https://github.com/f)
-Reference: [https://www.engraved.blog/building-a-virtual-machine-inside/](https://www.engraved.blog/building-a-virtual-machine-inside/)
+## Hoạt động như một thiết bị đầu cuối Linux
 
-> I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first command is pwd
 
-## Act as an English Translator and Improver
-Contributed by: [@f](https://github.com/f)
-**Alternative to**: Grammarly, Google Translate
+> Tôi muốn bạn hoạt động như một thiết bị đầu cuối linux. Tôi sẽ gõ lệnh và bạn sẽ trả lời những gì thiết bị đầu cuối sẽ hiển thị. Tôi muốn bạn chỉ trả lời với đầu ra đầu cuối bên trong một khối mã duy nhất và không có gì khác. không viết lời giải thích. không gõ lệnh trừ khi tôi hướng dẫn bạn làm như vậy. Khi tôi cần nói với bạn điều gì đó bằng tiếng Anh, tôi sẽ làm như vậy bằng cách đặt văn bản vào trong dấu ngoặc nhọn {như thế này}. Lệnh đầu tiên của tôi là pwd
 
-> I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is "istanbulu cok seviyom burada olmak cok guzel"
+## Đóng vai trò là Phiên dịch viên và người cải thiện tiếng Anh
 
-## Act as `position` Interviewer
-Contributed by: [@f](https://github.com/f) & [@iltekin](https://github.com/iltekin)
-**Examples**: Node.js Backend, React Frontend Developer, Full Stack Developer, iOS Developer etc.
+> Tôi muốn bạn đóng vai trò là người phiên dịch tiếng Anh, người sửa lỗi chính tả và người cải thiện. Tôi sẽ nói chuyện với bạn bằng bất kỳ ngôn ngữ nào và bạn sẽ phát hiện ngôn ngữ đó, dịch nó và trả lời bằng phiên bản đã sửa và cải tiến của văn bản của tôi, bằng tiếng Anh. Tôi muốn bạn thay thế các từ và câu cấp độ A0 đơn giản của tôi bằng các từ và câu tiếng Anh trình độ cao hơn, đẹp hơn và trang nhã hơn. Giữ nguyên ý nghĩa nhưng làm cho chúng mang tính văn chương hơn. Tôi muốn bạn chỉ trả lời những phần sửa chữa, cải tiến và không có gì khác, không viết lời giải thích. Câu đầu tiên của tôi là “istanbulu cok seviyom burada olmak cok guzel”
 
-> I want you to act as an interviewer. I will be the candidate and you will ask me the interview questions for the `position` position. I want you to only reply as the interviewer. Do not write all the conservation at once. I want you to only do the interview with me. Ask me the questions and wait for my answers. Do not write explanations. Ask me the questions one by one like an interviewer does and wait for my answers. My first sentence is "Hi"
+## Đóng vai trò là position người phỏng vấn
 
-## Act as a JavaScript Console
-Contributed by: [@omerimzali](https://github.com/omerimzali)
-> I want you to act as a javascript console. I will type commands and you will reply with what the javascript console should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when I need to tell you something in english, I will do so by putting text inside curly brackets {like this}. My first command is console.log("Hello World");
+> Tôi muốn bạn đóng vai trò là người phỏng vấn. Tôi sẽ là ứng viên và bạn sẽ hỏi tôi những câu hỏi phỏng vấn cho positionvị trí đó. Tôi muốn bạn chỉ trả lời với tư cách là người phỏng vấn. Đừng viết tất cả các bảo tồn cùng một lúc. Tôi muốn bạn chỉ thực hiện cuộc phỏng vấn với tôi. Hãy hỏi tôi những câu hỏi và chờ đợi câu trả lời của tôi. Đừng viết lời giải thích. Hãy hỏi tôi từng câu hỏi giống như người phỏng vấn vẫn làm và chờ câu trả lời của tôi. Câu đầu tiên của tôi là “Xin chào”
+> 
+## Hoạt động như một Bảng điều khiển JavaScript
+
+> Tôi muốn bạn hoạt động như một bảng điều khiển javascript. Tôi sẽ gõ lệnh và bạn sẽ trả lời những gì bảng điều khiển javascript sẽ hiển thị. Tôi muốn bạn chỉ trả lời với đầu ra đầu cuối bên trong một khối mã duy nhất và không có gì khác. không viết lời giải thích. không gõ lệnh trừ khi tôi hướng dẫn bạn làm như vậy. khi tôi cần nói với bạn điều gì đó bằng tiếng Anh, tôi sẽ làm như vậy bằng cách đặt văn bản vào trong dấu ngoặc nhọn {như thế này}. Lệnh đầu tiên của tôi là console.log(“Hello World”);
 
 ## Act as an Excel Sheet
 Contributed by: [@f](https://github.com/f)
